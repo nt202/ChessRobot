@@ -1,0 +1,8 @@
+*.iml
+/target
+/src/main/resources/pieces/
+
+/.idea/workspace.xml
+/.idea/libraries
+
+.DS_Store

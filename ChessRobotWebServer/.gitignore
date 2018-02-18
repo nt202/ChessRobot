@@ -1,0 +1,9 @@
+*.iml
+/session
+/target
+/src/main/resources/*.zip
+
+/.idea/workspace.xml
+/.idea/libraries
+
+.DS_Store

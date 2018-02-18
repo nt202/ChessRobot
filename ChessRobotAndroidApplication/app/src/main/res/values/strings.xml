@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ChessRobot</string>
+    <string name="connect">Connect</string>
+    <string name="description">Adjust your camera to fit the chessboard in the work area</string>
+    <string name="initial_description">Connect to camera\'s hotspot and turn off mobile data</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="strength">Strength</string>
+    <string name="language">Language</string>
+    <string name="server_ip">Server IP</string>
+    <string name="duration" tools:ignore="StringEscaping">Skip duration</string>
+    <string name="server_port">Server Port</string>
+    <string name="motion_detector">Motion detector</string>
+    <string name="save">Save</string>
+
+    <string-array name="durations">
+        <item>5s</item>
+        <item>7s</item>
+        <item>9s</item>
+    </string-array>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_manual">Manual</string>
+    <string name="title_quit">Quit</string>
+</resources>
